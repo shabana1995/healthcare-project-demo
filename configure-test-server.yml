@@ -13,4 +13,4 @@
     command: sudo systemctl start docker
 
   - name: Deploy Docker Container
-    command: docker run -itd -p 8095:8081  shabana4195/healthcare-project-demo:1.0
+    command: docker run -itd -p 8096:8082  shabana4195/healthcare-project-demo:1.0
