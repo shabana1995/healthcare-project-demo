@@ -1,5 +1,5 @@
 ---
-- name: Configure Docker on test2-server
+- name: Configure Docker on prod2-server
   hosts: prod2-server
   become: true
   tasks :
